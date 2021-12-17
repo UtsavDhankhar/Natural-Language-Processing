@@ -1,16 +1,16 @@
 # Natural-Language-Processing
 
-Project Description
+## Project Description
 Converting long passage to summary to traverse through the passage in smallest possible time while maintaining all the vital detail in the passage.
 
-Dataset Used
+## Dataset Used
 Here we have used amazon fast food review dataset since the size of passage is considerably small for our machine learning model to easily process and fit to dataset.
 
-Evaluation
+## Evaluation
 For evaluation of our project we are using ROGUE evaluation
 
 New Section
-Steps to follow
+## Steps to follow
 Download the dataset
 Upload to google colab
 Unzip the foleder.
